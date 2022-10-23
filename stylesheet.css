@@ -1,0 +1,38 @@
+.headback {
+  background-color: #5f9df7;
+  color: white;
+  padding-left: 1%;
+  padding: 1%;
+}
+
+.pfp {
+  height: 128px;
+  border-radius: 50%;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+}
+.tab1 {
+  padding: 1%;
+}
+
+.redline_height {
+  line-height: 0.2;
+}
+body {
+  background-color: lightblue;
+}
+
+.skillwidth {
+  width: 70%;
+}
+
+.fullwidth {
+  width: 150%;
+}
+
+.tab_padd {
+  padding: 2%;
+}
